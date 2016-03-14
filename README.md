@@ -25,3 +25,4 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 20121262 : Nguyen The Bao
 20122619 : Hoang Van Trung
+20122316 : Nguyen Dinh Quy
